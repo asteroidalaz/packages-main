@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/asteroidalaz/fish-insulter
+maintainer = AlazOz asteroidalaz@gmail.com
+description = Ah! Get insulted for all your clumsiness
